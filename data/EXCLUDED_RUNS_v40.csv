@@ -1,0 +1,59 @@
+run name,reason,replacment_run
+CG001Qv40Run01,Don't have lock down assay,
+CG001Qv40Run1,Don't have lock down assay,
+CG001Qv40Run02,Don't have lock down assay,
+CG001Qv40Run2,Don't have lock down assay,
+CG001Qv40Run03,Don't have lock down assay-Failed,
+CG001Qv40Run04,Don't have lock down assay,
+CG001Qv40Run4,Don't have lock down assay,
+CG001Qv40Run05,Wrong Run name,
+CG001Qv40Run06,Wrong Run name,
+CG001Qv40Run07,Wrong Run name,
+CG001Qv40Run08,Wrong Run name,
+CG001Qv40Run09,Wrong Run name,
+CG001Qv40Run25,Failed,
+CG001Qv40Run25 rerun,Wrong Run name-corrected by CG001Qv40Run25,
+CG001Qv40Run34,Failed,
+CG001Qv40Run36,Failed,
+CG001Qv40Run41,Failed on 2018-11-07,
+CG001Qv40Run41,Failed on 2018-11-09,
+CG001Qv40Run59,Failed,
+CG001Qv40Run62,Assay protocol changes,
+CG001Qv40Run63,Assay protocol changes,
+CG001Qv40Run63_1,Assay protocol changes,
+CG001Qv40Run64 (6 mers),Assay protocol changes,
+CG001Qv40Run64 (10mers),Assay protocol changes,
+CG001Qv40Run64,Assay protocol changes,
+CG001Qv40Run64_1,Assay protocol changes,
+CG001Qv40Run76,Failed,
+CG001Qv40Run78,,CG001Qv40Run90
+CG001Qv40Run80,Failed,
+CG001Qv40Run80 rerun,Wrong Run name-corrected by CG001Qv40Run80,
+CG001Qv40Run89,Assay protocol changes,
+CG001Qv40Run89 (6-mers),Assay protocol changes,
+CG001Qv40Run106,Failed,
+CG001Qv40Run133,Failed,CG001Qv40Run136
+CG001Qv40Run141,Contaminated NF,
+CG001Qv40Run145,No codeword,
+CG001Qv40Run148,No codeword,
+CG001Qv40Run162,Wrong sample names - requed as Run175 and output saved here,CG001Qv40Run175
+CG001Qv40Run172,Failed,
+CG001Qv40Run173,Failed,
+CG001Qv40Run175,Failed,CG001Qv40Run162
+CG001Qv40Run176,Failed,CG001Qv40Run178
+CG001Qv40Run179,Failed,
+CG001Qv40Run184,Failed,CG001Qv40Run187
+CG001Qv40Run186,Failed,CG001Qv40Run140
+CG001Qv40Run193,high tile error,CG001Qv40Run194
+CG001Qv40Run196,Failed,CG001Qv40Run197
+CG001Qv40Run204,Failed,CG001Qv40Run208
+CG001Qv40Run112,poor run performance,CG001Qv40Run112-redo2
+CG001Qv42Run229,mixed run of follow it/find it samples with fusions samples,
+CG001v34Next001,Test run,
+CG001v34Next002,Test run,
+CG001Qv34Next007,Failed,
+CG001Qv40Next019,Failed,
+CG001Qv40Next031,Changes in the assay protocol,
+CG001Qv40Next031_2,Changes in the assay protocol,
+CG001Qv40Next054,camera failure,CG001Qv40Next061
+CG001Qv42Run244,primer pool failed,CG001Qv42Run245

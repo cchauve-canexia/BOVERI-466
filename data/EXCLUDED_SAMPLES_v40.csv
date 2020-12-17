@@ -1,0 +1,104 @@
+sample name,reason for exclusion,cohort,run_name
+DNA-19157-CG001Qv40Run179-4,Failed run - contamination blank and noisy NF,EORLA,CG001Qv40Run179
+DNA-16080-CG001Qv40Run123-17,Failed sample from CONSTANT.py,ExactisInnovation,CG001Qv40Run123
+DNA-10416-CG001Qv40Run129-4,CG001Qv40Run129 is Sigma primers  vs. standard IDT primers,GyneBank,CG001Qv40Run129
+DNA-11202-CG001Qv40Run129-5,CG001Qv40Run129 is Sigma primers  vs. standard IDT primers,GyneBank,CG001Qv40Run129
+DNA-10416-CG001Qv40Run129-16,CG001Qv40Run129 is Sigma primers  vs. standard IDT primers,GyneBank,CG001Qv40Run129
+DNA-11202-CG001Qv40Run129-17,CG001Qv40Run129 is Sigma primers  vs. standard IDT primers,GyneBank,CG001Qv40Run129
+DNA-10416-CG001Qv40Run147-4,CG001Qv40Run147 is Sigma primers vs. vs. standard IDT primers and standard 3 primer pools vs. 2 primer pools,GyneBank,CG001Qv40Run147
+DNA-11202-CG001Qv40Run147-5,CG001Qv40Run147 is Sigma primers vs. vs. standard IDT primers and standard 3 primer pools vs. 2 primer pools,GyneBank,CG001Qv40Run147
+DNA-10416-CG001Qv40Run147-9,CG001Qv40Run147 is Sigma primers vs. vs. standard IDT primers and standard 3 primer pools vs. 2 primer pools,GyneBank,CG001Qv40Run147
+DNA-11202-CG001Qv40Run147-10,CG001Qv40Run147 is Sigma primers vs. vs. standard IDT primers and standard 3 primer pools vs. 2 primer pools,GyneBank,CG001Qv40Run147
+DNA-11181-CG001Qv40Run147-16,CG001Qv40Run147 is Sigma primers vs. vs. standard IDT primers and standard 3 primer pools vs. 2 primer pools,GyneBank,CG001Qv40Run147
+DNA-11183-CG001Qv40Run147-17,CG001Qv40Run147 is Sigma primers vs. vs. standard IDT primers and standard 3 primer pools vs. 2 primer pools,GyneBank,CG001Qv40Run147
+DNA-11202-CG001Qv40Run147-18,CG001Qv40Run147 is Sigma primers vs. vs. standard IDT primers and standard 3 primer pools vs. 2 primer pools,GyneBank,CG001Qv40Run147
+DNA-11181-CG001Qv40Run147-22,CG001Qv40Run147 is Sigma primers vs. vs. standard IDT primers and standard 3 primer pools vs. 2 primer pools,GyneBank,CG001Qv40Run147
+DNA-11183-CG001Qv40Run147-23,CG001Qv40Run147 is Sigma primers vs. vs. standard IDT primers and standard 3 primer pools vs. 2 primer pools,GyneBank,CG001Qv40Run147
+DNA-11202-CG001Qv40Run147-24,CG001Qv40Run147 is Sigma primers vs. vs. standard IDT primers and standard 3 primer pools vs. 2 primer pools,GyneBank,CG001Qv40Run147
+DNA-11186-CG001Qv40Run148-13,CG001Qv40Run148 is (Single tube assay no codewords),GyneBank,CG001Qv40Run148
+DNA-11186-CG001Qv40Run148-14,CG001Qv40Run148 is (Single tube assay no codewords),GyneBank,CG001Qv40Run148
+DNA-10415-CG001Qv40Run152-4,CG001Qv40Run152 is Thermo Fisher primers vs. current IDT primers and FIND IT v4 LOD DNA mixtures using different background ,GyneBank,CG001Qv40Run152
+DNA-10415-CG001Qv40Run152-5,CG001Qv40Run152 is Thermo Fisher primers vs. current IDT primers and FIND IT v4 LOD DNA mixtures using different background,GyneBank,CG001Qv40Run152
+DNA-10415-CG001Qv40Run152-6,CG001Qv40Run152 is Thermo Fisher primers vs. current IDT primers and FIND IT v4 LOD DNA mixtures using different background,GyneBank,CG001Qv40Run152
+DNA-10415-CG001Qv40Run152-7,CG001Qv40Run152 is Thermo Fisher primers vs. current IDT primers and FIND IT v4 LOD DNA mixtures using different background,GyneBank,CG001Qv40Run152
+DNA-10415-CG001Qv40Run152-8,CG001Qv40Run152 is Thermo Fisher primers vs. current IDT primers and FIND IT v4 LOD DNA mixtures using different background,GyneBank,CG001Qv40Run152
+DNA-10415-CG001Qv40Run152-9,CG001Qv40Run152 is Thermo Fisher primers vs. current IDT primers and FIND IT v4 LOD DNA mixtures using different background,GyneBank,CG001Qv40Run152
+DNA-11740-CG001Qv40Run152-10,CG001Qv40Run152 is Thermo Fisher primers vs. current IDT primers and FIND IT v4 LOD DNA mixtures using different background,GyneBank,CG001Qv40Run152
+DNA-10416-CG001Qv40Run152-11,CG001Qv40Run152 is Thermo Fisher primers vs. current IDT primers and FIND IT v4 LOD DNA mixtures using different background,GyneBank,CG001Qv40Run152
+DNA-11202-CG001Qv40Run152-12,CG001Qv40Run152 is Thermo Fisher primers vs. current IDT primers and FIND IT v4 LOD DNA mixtures using different background,GyneBank,CG001Qv40Run152
+DNA-10416-CG001Qv40Run152-20,CG001Qv40Run152 is Thermo Fisher primers vs. current IDT primers and FIND IT v4 LOD DNA mixtures using different background,GyneBank,CG001Qv40Run152
+DNA-11202-CG001Qv40Run152-21,CG001Qv40Run152 is Thermo Fisher primers vs. current IDT primers and FIND IT v4 LOD DNA mixtures using different background,GyneBank,CG001Qv40Run152
+DNA-10416-CG001Qv40Run153-21,CG001Qv40Run153 is standard 3 primer pools vs. Pedro's 2 primer pools; Horizon/Seraseq plasma LODs at 8.25 ng/2500,GyneBank,CG001Qv40Run153
+DNA-10427-CG001Qv40Run153-22,CG001Qv40Run153 is standard 3 primer pools vs. Pedro's 2 primer pools; Horizon/Seraseq plasma LODs at 8.25 ng/2500,GyneBank,CG001Qv40Run153
+DNA-10643-CG001Qv40Run153-23,CG001Qv40Run153 is standard 3 primer pools vs. Pedro's 2 primer pools; Horizon/Seraseq plasma LODs at 8.25 ng/2500,GyneBank,CG001Qv40Run153
+DNA-10415-CG001Qv40Run158-5,CG001Qv40Run158 is CG primers 1-pool and 3-pool,GyneBank,CG001Qv40Run158
+DNA-10415-CG001Qv40Run158-9,CG001Qv40Run158 is CG primers 1-pool and 3-pool,GyneBank,CG001Qv40Run158
+DNA-11179-CG001Qv40Run158-12,CG001Qv40Run158 is CG primers 1-pool and 3-pool,GyneBank,CG001Qv40Run158
+DNA-11179-CG001Qv40Run158-16,CG001Qv40Run158 is CG primers 1-pool and 3-pool,GyneBank,CG001Qv40Run158
+DNA-11179-CG001Qv40Run158-20,CG001Qv40Run158 is CG primers 1-pool and 3-pool,GyneBank,CG001Qv40Run158
+DNA-11179-CG001Qv40Run158-23,CG001Qv40Run158 is CG primers 1-pool and 3-pool,GyneBank,CG001Qv40Run158
+DNA-10416-CG001Qv40Run162-21,CG001Qv40Run162 is DT unique indexes test,GyneBank,CG001Qv40Run162
+DNA-10427-CG001Qv40Run162-22,CG001Qv40Run162 is DT unique indexes test,GyneBank,CG001Qv40Run162
+DNA-10643-CG001Qv40Run162-23,CG001Qv40Run162 is DT unique indexes test,GyneBank,CG001Qv40Run162
+DNA-11435-CG001Qv40Run159-13,multiple distinct fingerprints observed (consider adding it later if everything is ok),GyneBank,CG001Qv40Run159
+DNA-10202-CG001Qv40Run157-4,excluded due to inconsistencies of fingerprints for patient CG02610 (consider adding later if everything is ok),GyneBank,CG001Qv40Run157
+DNA-10202-CG001Qv40Run157-5,excluded due to inconsistencies of fingerprints for patient CG02610 (consider adding later if everything is ok),GyneBank,CG001Qv40Run157
+DNA-10202-CG001Qv40Run159-4,excluded due to inconsistencies of fingerprints for patient CG02610 (consider adding later if everything is ok),GyneBank,CG001Qv40Run159
+DNA-8989-CG001Qv40Run159-18,excluded due to inconsistencies of fingerprints for patient CG02418 (consider adding later if everything is ok),GyneBank,CG001Qv40Run159
+DNA-14479-CG001Qv40Run99-11,Failed sample (Post-op Plasma Week 6),JMcAalpine,CG001Qv40Run99
+DNA-13111-CG001Qv40Run70-11,failed sample,JMcAalpine,CG001Qv40Run70
+DNA-13203-CG001Qv40Run73-12,failed sample,JMcAalpine,CG001Qv40Run73
+RDDNA-7962-CG001Run242-23,FFPE (Rosalia please have a look),Sonic(AUS),CG001Run242
+RDDNA-7962-CG001Run242-18,FFPE (Rosalia please have a look),Sonic(AUS),CG001Run242
+RDDNA-8078-CG001Run242-17,FFPE (Rosalia please have a look),Sonic(AUS),CG001Run242
+RDDNA-8078-CG001Run242-22,FFPE (Rosalia please have a look),Sonic(AUS),CG001Run242
+DNA-19085-CG001Qv41Run001-5,R&D run with version CG001Qv41 primers,AnnaMcGuire,CG001Qv41Run001
+DNA-19085-CG001Qv41Run001-11,R&D run with version CG001Qv41 primers,AnnaMcGuire,CG001Qv41Run001
+DNA-19085-CG001Qv41Run001-17,R&D run with version CG001Qv41 primers,AnnaMcGuire,CG001Qv41Run001
+DNA-19085-CG001Qv41Run001-23,R&D run with version CG001Qv41 primers,AnnaMcGuire,CG001Qv41Run001
+DNA-17899-CG001Qv40Run188-15,Failed low input/low quality, extraction failure,CG001Qv40Run188
+DNA-20657-CG001Qv40Run211-7,low coverage for several amplicons,ACTT,CG001Qv40Run211
+DNA-20658-CG001Qv40Run211-8,low coverage for several amplicons,ACTT,CG001Qv40Run211
+DNA-20659-CG001Qv40Run211-9,low coverage for several amplicons,ACTT,CG001Qv40Run211
+DNA-20661-CG001Qv40Run211-10,low coverage for several amplicons,ACTT,CG001Qv40Run211
+DNA-20662-CG001Qv40Run211-11,low coverage for several amplicons,ACTT,CG001Qv40Run211
+DNA-20663-CG001Qv40Run211-12,low coverage for several amplicons,ACTT,CG001Qv40Run211
+DNA-20684-CG001Qv40Run211-22,low coverage for several amplicons,ACTT,CG001Qv40Run211
+DNA-20178-CG001Qv40Run203-16,low coverage,ACTT,CG001Qv40Run203
+DNA-21495-CG001Qv42Run216-10,failed QC,ACTT,CG001Qv42Run216
+DNA-21496-CG001Qv42Run216-11,failed QC,ACTT,CG001Qv42Run216
+DNA-21517-CG001Qv42Run217-5,unusual variant will be repeated,ACTT,CG001Qv42Run217
+DNA-21378-CG001Qv40Run215-10,possible pipetting error,ACTT,CG001Qv40Run215
+DNA-21398-CG001Qv40Run215-16,possible pipetting error,ACTT,CG001Qv40Run215
+DNA-21031-CG001Qv40Run215-23,possible pipetting error,ACTT,CG001Qv40Run215
+DNA-21382-CG001Qv40Run215-24,possible pipetting error,ACTT,CG001Qv40Run215
+DNA-21031-CG001Qv40Run213-23,Eric said failed QC,ACTT,CG001Qv40Run213
+DNA-21496-CG001Qv42Run218-5,many low cov amplicons,ACTT,CG001Qv42Run218
+DNA-21839-CG001Qv42Run219-12,many low cov amplicons,ACTT,CG001Qv42Run219
+DNA-23106-CG001Qv42Run228-12,too many low cov amplicons,,CG001Qv42Run228
+DNA-23111-CG001Qv42Run228-17,too many low cov amplicons,,CG001Qv42Run228
+DNA-23259-CG001Qv42Run230-17,Eric G. reported high background from low input concentration,,CG001Qv42Run230
+DNA-23556-CG001Qv42Run233-11,low coverage for many amplicons and repeated on Run234,,CG001Qv42Run233
+DNA-23556-CG001Qv42Run234-4,many low coverage amplicons,,CG001Qv42Run234
+DNA-24245-CG001Qv42Run235-11,5 amplicons with depth <=500 and 11 amplicons with depth <=1000,,CG001Qv42Run235
+DNA-24311-CG001Qv42Run236-12,11 amplicons with depth <=1000,,CG001Qv42Run236
+DNA-24309-CG001Qv42Run236-10,6 amplicons with depth <=500 and 12 amplicons with depth <=1000,,CG001Qv42Run236
+DNA-24374-CG001Qv42Run237-7,5 amplicons with depth <=500,,CG001Qv42Run237
+DNA-24622-CG001Qv42Run239-20,10 amplicons with coverage <1000,,CG001Qv42Run239
+DNA-24562-CG001Qv42Run239-12,10 amplicons with coverage <1000,,CG001Qv42Run239
+DNA-24561-CG001Qv42Run239-11,10 amplicons with coverage <1000,,CG001Qv42Run239
+DNA-24463-CG001Qv42Run240-5,44 amplicons with depth <=500/1000 -- probably due to a primer pool being missed,,CG001Qv42Run240
+DNA-24463-CG001Qv42Run238-6,See email on clinical mailing list -- Eric suggested redoing the whole run -- a few samples failed but whole run was bad -- many repeated on Run240,,CG001Qv42Run238
+DNA-24464-CG001Qv42Run238-7,See email on clinical mailing list -- Eric suggested redoing the whole run -- a few samples failed but whole run was bad -- many repeated on Run240,,CG001Qv42Run238
+DNA-24465-CG001Qv42Run238-8,See email on clinical mailing list -- Eric suggested redoing the whole run -- a few samples failed but whole run was bad -- many repeated on Run240,,CG001Qv42Run238
+DNA-24471-CG001Qv42Run238-10,See email on clinical mailing list -- Eric suggested redoing the whole run -- a few samples failed but whole run was bad -- many repeated on Run240,,CG001Qv42Run238
+DNA-24472-CG001Qv42Run238-11,See email on clinical mailing list -- Eric suggested redoing the whole run -- a few samples failed but whole run was bad -- many repeated on Run240,,CG001Qv42Run238
+DNA-24473-CG001Qv42Run238-12,See email on clinical mailing list -- Eric suggested redoing the whole run -- a few samples failed but whole run was bad -- many repeated on Run240,,CG001Qv42Run238
+DNA-24474-CG001Qv42Run238-13,See email on clinical mailing list -- Eric suggested redoing the whole run -- a few samples failed but whole run was bad -- many repeated on Run240,,CG001Qv42Run238
+DNA-24477-CG001Qv42Run238-16,See email on clinical mailing list -- Eric suggested redoing the whole run -- a few samples failed but whole run was bad -- many repeated on Run240,,CG001Qv42Run238
+DNA-24478-CG001Qv42Run238-17,See email on clinical mailing list -- Eric suggested redoing the whole run -- a few samples failed but whole run was bad -- many repeated on Run240,,CG001Qv42Run238
+DNA-24479-CG001Qv42Run238-18,See email on clinical mailing list -- Eric suggested redoing the whole run -- a few samples failed but whole run was bad -- many repeated on Run240,,CG001Qv42Run238
+DNA-24481-CG001Qv42Run238-19,See email on clinical mailing list -- Eric suggested redoing the whole run -- a few samples failed but whole run was bad -- many repeated on Run240,,CG001Qv42Run238
+DNA-24805-CG001Qv42Run242-9,8 amplicons with depth <=500 and15 amplicons with depth <=1000,,CG001Qv42Run242
+DNA-24882-CG001Qv42Run242-4,5 amplicons with depth <=500,,CG001Qv42Run242
+DNA-25171-CG001Qv42Run248-18,5 amplicons with depth <=500 and 10 amplicons with depth <=1000,,CG001Qv42Run248
