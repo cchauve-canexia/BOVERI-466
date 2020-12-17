@@ -1,0 +1,24 @@
+## Input
+# Directory containing the data files
+DATA_DIR	data
+# Prefix of MiSeq data files
+MISEQ_RUNS_DATA_CSV_PREFIX	RUN_SUMMARIES_MiSeq
+# Prefix of excluded samples/runs files
+EXCLUDED_SAMPLES_PREFIX	EXCLUDED_SAMPLES
+EXCLUDED_RUNS_PREFIX	EXCLUDED_RUNS
+# List of amplicons manifest ID and corresponding amplicons manifest files
+MANIFESTS	v40 CG001v4.0_Amplicon_Manifest_Panel4.0.3_20181101.tsv
+## Output
+# Directory where results are written
+OUT_DIR	out
+# TSV file containing the correspondance run ID -> dmp file
+DUMP_FILES_TSV	dump_files.tsv
+# Prefix of CSV variants files
+VARIANTS_CSV_PREFIX	variants
+# Command to get latest run information
+LATEST_RUNS_CMD	python bin/get_pipeline_latest_output.py -r RUNS_IN -o RUNS_OUT
+# Command to run the dump variant script
+DUMP_CMD	python /home/cchauve/biosys/rd_analysis/dump_variants.py
+DUMP_IN	/mnt/s3_cg-rd/output/LATEST_RUN
+DUMP_OUT	out/dumpvariants_output/RUN_NAME_dumpvariants_out-v_0-c_0-s_0-m_0.tsv
+DUMP_PARAMETERS	-v 0 -c 0 -s 0 -m 0

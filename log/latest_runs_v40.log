@@ -1,0 +1,1 @@
+LATEST_RUNS	python bin/get_pipeline_latest_output.py -r /tmp/tmpJBjg__ -o out/RUN_SUMMARIES_MiSeq_v40_latest_run.csv
